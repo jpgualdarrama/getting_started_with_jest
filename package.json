@@ -1,0 +1,17 @@
+{
+  "name": "getting_started_with_jest",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.0"
+  },
+  "jest": {
+      "collectCoverage": true
+  }
+}
